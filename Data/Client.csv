@@ -1,0 +1,8 @@
+code;name;city;phone;NIF;dob;mail;password;username;gender;payment_card
+3;Rodrigo;Zinde;987654312;12435146;23-05-2001;sdfbn32@gmail.com;2003;Digo;male;128392
+5;José;Viana;912829123;123;25-05-2021;123@outlook.com;0;1234;male;123432
+6;Pedro;Algarve;923729123;123;25-05-2021;123@gmail.com;123;123;male;132425
+7;Dinis;Coruna;923243432;123456;25-05-2021;dinis@outlook.com;123;Di;male;123
+10;João;Lanhoso;980765242;645634634;2095-08-17;joao@gmail.com;123;Jon;male;24124342312
+13;Jorge;12312;123245;123;2021-05-31;123;1;jo;female;214354635
+14;Paulo;Lagos;124132123124;124342132;2021-05-31;paulo@hotmail.com;1;Paulo;other;1432231231

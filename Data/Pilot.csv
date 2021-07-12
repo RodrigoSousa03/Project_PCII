@@ -1,0 +1,10 @@
+code;name;city;phone;NIF;dob;mail;password;username;gender;salary;photo;airplanes;flight_hours
+1;Gustavo;Porto;987654312;1451346;23-05-2001;sdfbnb@gmail.com;nn;Gus;male;2000;678;ModelA;22
+16;Filipe;Lisboa;234567;234567;2098-05-08;filipe@gmail.com;c%*#h!(I;Filipe;male;0;C:/Users/Asus-Pc/OneDrive/Ambiente de Trabalho/Universidade/2 semestre/PC II/Avilux2/Images/001-user.png;['ModelA', 'ModelB', 'ModelC'];0
+17;Ricardo;Lima;934651232;7608329012;2096-05-10;ricardoqueiroz@sapo.pt;DQ8{:q>o;Ricardo;male;0;1;['ModelA', 'ModelB'];0
+18;Maria;Sintra;967542391;1221231241324;2098-09-24;maria@gmail.com;%w|ox./k;Maria;.!combobox;0;1;[];0
+20;António;Amorosa;941625321;14233236;2097-03-13;antonio@gmail.com;d6uVuRBS;António;.!combobox;0;3;['ModelB', 'ModelC'];0
+22;Rute;Lisboa;92426671;345367632;2003-05-16;rute@gmail.com;12345678;Rute;.!combobox;0;C:/Users/Asus-Pc/OneDrive/Ambiente de Trabalho/Universidade/2 semestre/PC II/Avilux2/Images/foto curriculo.jpg;['ModelA', 'ModelC'];0
+23;Ricardo;Lisboa;93781798173;8765434253;2001-05-18;Ricardo@gmail.com;123;Ricardo;.!combobox;0;C:/Users/Asus-Pc/OneDrive/Ambiente de Trabalho/Universidade/2 semestre/PC II/Avilux2/Images/w3schools.jpg;['ModelA', 'ModelB'];0
+24;Paula;Porto;9876546753;2345678;2001-05-11;paula@gmail.com;123;Paulo;.!combobox;0;C:/Users/Asus-Pc/OneDrive/Ambiente de Trabalho/Universidade/2 semestre/PC II/Avilux2/Images/details-1-background.jpg;['ModelA', 'ModelB'];0
+25;Eduardo;Porto;98268179;213456521;2003-07-17;eduardo@gmail.com;123;Eduardo;.!combobox;0;C:/Users/Asus-Pc/OneDrive/Ambiente de Trabalho/Universidade/2 semestre/PC II/Avilux2/Images/w3schools.jpg;['ModelA', 'ModelB'];0
